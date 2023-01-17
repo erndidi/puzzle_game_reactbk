@@ -1,0 +1,12 @@
+.inView{
+  color:black;
+}
+
+.noView{
+  color:white;
+}
+
+
+div{
+  display:inline;  
+}
